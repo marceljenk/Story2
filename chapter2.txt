@@ -1,1 +1,2 @@
 This is boring
+After creating a repo on github and cloning it to the local filesystem, i'm trying to push changes from the local file without creating a remote repository
